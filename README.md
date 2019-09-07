@@ -1,2 +1,2 @@
 # Artificial Intelligence
-Machine learning + A.I. 
+Machine learning + Deep learning + A.I. 
